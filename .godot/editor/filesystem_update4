@@ -1,0 +1,14 @@
+res://Scenes/character.tscn
+res://imagens rapidas/levels/scenes/test_level.tscn
+res://imagens rapidas/levels/scenes/teset_level_2.tscn
+res://Components/door_component.tscn
+res://Components_2/door_component_2.tscn
+res://terrain/scenes/terrain.tscn
+res://terrain/scenes/interior.tscn
+res://terrain/scenes/objects_terrain.tscn
+res://character/scenes/slime.tscn
+res://Scenes/start_screen.tscn
+res://Scenes/controls_screen.tscn
+res://Game Over/game_over.tscn
+res://pause game/pause_menu.tscn
+res://character/scripts/slime.gd

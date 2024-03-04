@@ -1,0 +1,123 @@
+ea4bc82a6ad023ab7ee23ee620429895
+::res://::1709571238
+icon.svg::CompressedTexture2D::3040151365002890361::1700008994::1699904248::1::::<><>::
+Portal.png::CompressedTexture2D::4725455582978479990::1708387644::1708388723::1::::<><>::
+::res://addons/::1700762644
+::res://backgorund2/::1708637037
+::res://character/::1708637037
+::res://character/assets/::1708637037
+player.png::CompressedTexture2D::8878993444920752522::1701112140::1701112282::1::::<><>::
+Slime .png::CompressedTexture2D::5740097012873242523::1700611966::1700695860::1::::<><>::
+::res://character/scenes/::1709058213
+slime.tscn::PackedScene::210326650345349605::1709058213::0::1::::<><>::res://character/scripts/slime.gd<>uid://cn1stanmebhst::::res://character/assets/Slime .png
+::res://character/scripts/::1709056301
+character.gd::GDScript::-1::1706232843::0::1::::Character<>CharacterBody2D<>::
+controls_screen.gd::GDScript::-1::1706546129::0::1::::<>Control<>::
+door_component.gd::GDScript::-1::1708629698::0::1::::doorcomponent<>Area2D<>::
+game_over.gd::GDScript::-1::1706230065::0::1::::<>CanvasLayer<>::
+pause_menu.gd::GDScript::-1::1708389903::0::1::::<>CanvasLayer<>::
+portal.gd::GDScript::-1::1708389629::0::1::::<>Area2D<>::
+slime.gd::GDScript::-1::1709056301::0::1::::Slime<>CharacterBody2D<>::
+start_screen.gd::GDScript::-1::1708622586::0::1::::<>Control<>::
+::res://Components/::1709058210
+door_component.tscn::PackedScene::3611334740466351186::1709058210::0::1::::<><>::res://character/scripts/door_component.gd<>uid://d0dbd3vyckij2::::res://imagens rapidas/wooden_door_b.png
+::res://Components_2/::1709058210
+DoorComponent_2.gd::GDScript::-1::1708629914::0::1::::doorcomponent_2<>Area2D<>::
+door_component_2.tscn::PackedScene::1678910128559787321::1709058210::0::1::::<><>::res://Components_2/DoorComponent_2.gd<>uid://d0dbd3vyckij2::::res://imagens rapidas/wooden_door_b.png
+::res://efeitos sonoros/::1708637039
+8d82b5_Super_Mario_Bros_Die_Sound_Effect.mp3::AudioStreamMP3::434519387459960390::1706231437::1706231437::1::::<><>::
+606_full_16-bit-beach-party_0158_preview.mp3::AudioStreamMP3::7875349261010066956::1706231437::1706231437::1::::<><>::
+566208__awazixosh__its-time-for-an-adventure.wav::AudioStreamWAV::8068189772509749033::1706231874::1706231883::1::::<><>::
+pixel-death-66829.mp3::AudioStreamMP3::1463311750288318999::1706232218::1706232220::1::::<><>::
+slash-21834.mp3::AudioStreamMP3::5209334211348721855::1706232523::1706232528::1::::<><>::
+::res://fonts/::1708637039
+::res://Game Over/::1709058213
+BtnAgain.png::CompressedTexture2D::5136761277086989350::1706210904::1706210904::1::::<><>::
+GameOver.png::CompressedTexture2D::8569779550924425514::1706210904::1706210904::1::::<><>::
+game_over.tscn::PackedScene::7314622267331730249::1709058213::0::1::::<><>::uid://cfgjycfe82xba::::res://Game Over/BtnAgain.png<>res://character/scripts/game_over.gd<>uid://dudjat22fo63w::::res://Game Over/GameOver.png<>uid://u33sbr86k5d0::::res://efeitos sonoros/pixel-death-66829.mp3
+::res://imagens rapidas/::1708637039
+back.jpg::CompressedTexture2D::627718622753379045::1706030752::1708109010::1::::<><>::
+chest_01.png::CompressedTexture2D::3072833928947717296::1700363544::1708109013::1::::<><>::
+logo game.png::CompressedTexture2D::7537414134999820466::1701194818::1708109003::1::::<><>::
+objects.png::CompressedTexture2D::7924713035053736804::1700468462::1708108998::1::::<><>::
+pixil-frame-0 (4).png::CompressedTexture2D::8008497785592377528::1701971132::1708108994::1::::<><>::
+read_me.txt::TextFile::-1::1669967700::0::1::::<><>::
+wooden_door_b.png::CompressedTexture2D::8920243853854995485::1700178246::1708108976::1::::<><>::
+::res://imagens rapidas/levels/::1708637039
+::res://imagens rapidas/levels/scenes/::1709062601
+teset_level_2.tscn::PackedScene::5092767631984855781::1709062596::0::1::::<><>::uid://dssmkdvmgek7g::::res://terrain/scenes/terrain.tscn<>uid://bstkq0k4uwq5::::res://Scenes/character.tscn<>uid://cfvjtpsrdbtwu::::res://terrain/scenes/objects_terrain.tscn<>uid://ct7fowxyevsrv::::res://terrain/scenes/interior.tscn<>uid://c85bw43rma26::::res://character/scenes/slime.tscn<>uid://muo0nphggq7m::::res://pause game/pause_menu.tscn<>uid://dm7j53h6mdkw4::::res://efeitos sonoros/566208__awazixosh__its-time-for-an-adventure.wav<>uid://brpmfj235xve5::::res://Components/door_component.tscn<>uid://x6jn0vqboyer::::res://Components_2/door_component_2.tscn
+test_level.tscn::PackedScene::6232025459036463763::1709058203::0::1::::<><>::uid://dssmkdvmgek7g::::res://terrain/scenes/terrain.tscn<>uid://bstkq0k4uwq5::::res://Scenes/character.tscn<>uid://cfvjtpsrdbtwu::::res://terrain/scenes/objects_terrain.tscn<>uid://ct7fowxyevsrv::::res://terrain/scenes/interior.tscn<>uid://c85bw43rma26::::res://character/scenes/slime.tscn<>uid://muo0nphggq7m::::res://pause game/pause_menu.tscn<>uid://dm7j53h6mdkw4::::res://efeitos sonoros/566208__awazixosh__its-time-for-an-adventure.wav<>uid://brpmfj235xve5::::res://Components/door_component.tscn<>uid://x6jn0vqboyer::::res://Components_2/door_component_2.tscn
+::res://pause game/::1709058214
+pause_menu.tscn::PackedScene::884449067785876540::1709058214::0::1::::<><>::res://character/scripts/pause_menu.gd<>uid://cv7f64e2bnj3y::::res://themes/new_theme.tres<>uid://cvtkhuaoexv1w::::res://ttfs/Minecraft.ttf
+::res://Portal/::1708637039
+::res://Portal/Scenes/::1708388544
+::res://Scenes/::1709058213
+character.gd::GDScript::-1::1700462228::0::1::::<>CharacterBody2D<>::
+character.tscn::PackedScene::108520003500352902::1709058198::0::1::::<><>::uid://dyrbyv4thv77s::::res://character/assets/player.png<>res://character/scripts/character.gd<>uid://cgho8dhiilxrj::::res://efeitos sonoros/slash-21834.mp3
+controls_screen.tscn::PackedScene::5640261321911149681::1709058213::0::1::::<><>::res://character/scripts/controls_screen.gd<>uid://cvtkhuaoexv1w::::res://ttfs/Minecraft.ttf
+scene_transition.tscn::PackedScene::3906627771832395401::1708972091::0::1::::<><>::res://character/scripts/scene_transition.gd
+start_screen.tscn::PackedScene::3210897283067517842::1709058213::0::1::::<><>::res://character/scripts/start_screen.gd<>uid://cvtkhuaoexv1w::::res://ttfs/Minecraft.ttf<>uid://i7co0yfyry4d::::res://imagens rapidas/back.jpg<>uid://dfngdyww7u6gk::::res://imagens rapidas/logo game.png<>uid://dm7j53h6mdkw4::::res://efeitos sonoros/566208__awazixosh__its-time-for-an-adventure.wav
+::res://sprites/::1708637041
+::res://sprites/characters/::1708637039
+player.png::CompressedTexture2D::2356997532489238005::1669967700::1699904264::1::::<><>::
+skeleton.png::CompressedTexture2D::669977614430824038::1669967700::1699904248::1::::<><>::
+slime.png::CompressedTexture2D::4297520622753010959::1669967700::1699904248::1::::<><>::
+::res://sprites/objects/::1708637040
+chest_01.png::CompressedTexture2D::4830922498793829510::1669967700::1699904248::1::::<><>::
+chest_02.png::CompressedTexture2D::1156010849690450601::1669967700::1699904248::1::::<><>::
+objects.png::CompressedTexture2D::7056715034748334502::1669967700::1699904248::1::::<><>::
+rock_in_water_01-sheet.png::CompressedTexture2D::2922720431779064452::1669967700::1699904248::1::::<><>::
+rock_in_water_01.png::CompressedTexture2D::4699203125063971663::1669967700::1699904248::1::::<><>::
+rock_in_water_02.png::CompressedTexture2D::3168795594786183427::1669967700::1699904248::1::::<><>::
+rock_in_water_03.png::CompressedTexture2D::4224927004818998272::1669967700::1699904248::1::::<><>::
+rock_in_water_04.png::CompressedTexture2D::1845287658571902069::1669967700::1699904250::1::::<><>::
+rock_in_water_05.png::CompressedTexture2D::1053232359290250328::1669967700::1699904250::1::::<><>::
+rock_in_water_06.png::CompressedTexture2D::3496942328526124949::1669967700::1699904250::1::::<><>::
+::res://sprites/particles/::1708637041
+dust_particles_01.png::CompressedTexture2D::3804952100014559746::1669967700::1699904250::1::::<><>::
+::res://sprites/tilesets/::1708637043
+decor_8x8.png::CompressedTexture2D::4640337750932726226::1669967700::1699904246::1::::<><>::
+decor_16x16.png::CompressedTexture2D::2993218837793559088::1669967700::1699904246::1::::<><>::
+fences.png::CompressedTexture2D::6985430905200134146::1669967700::1699904246::1::::<><>::
+grass.png::CompressedTexture2D::7223317741051280325::1669967700::1699904246::1::::<><>::
+plains.png::CompressedTexture2D::5330913607808218065::1669967700::1699904246::1::::<><>::
+water1.png::CompressedTexture2D::3980748015934173494::1669967700::1699904246::1::::<><>::
+water2.png::CompressedTexture2D::592838118780461433::1669967700::1699904246::1::::<><>::
+water3.png::CompressedTexture2D::6646559336829712921::1669967700::1699904246::1::::<><>::
+water4.png::CompressedTexture2D::1376464085840144389::1669967700::1699904246::1::::<><>::
+water5.png::CompressedTexture2D::5323907787671607811::1669967700::1699904248::1::::<><>::
+water6.png::CompressedTexture2D::7221989180294837155::1669967700::1699904248::1::::<><>::
+water_decorations.png::CompressedTexture2D::6347637371371045673::1669967700::1699904248::1::::<><>::
+water_lillies.png::CompressedTexture2D::35803992892163414::1669967700::1699904248::1::::<><>::
+::res://sprites/tilesets/floors/::1708637043
+carpet.png::CompressedTexture2D::3177911731076795269::1669967700::1699904250::1::::<><>::
+flooring.png::CompressedTexture2D::5074304267083709477::1669967700::1699904250::1::::<><>::
+wooden.png::CompressedTexture2D::3334304492880069672::1669967700::1699904250::1::::<><>::
+::res://sprites/tilesets/walls/::1708637043
+walls.png::CompressedTexture2D::5720171000599190037::1669967700::1699904246::1::::<><>::
+wooden_door.png::CompressedTexture2D::7320341449173675598::1669967700::1699904246::1::::<><>::
+wooden_door_b.png::CompressedTexture2D::1795634421609370082::1669967700::1699904246::1::::<><>::
+::res://terrain/::1708637044
+::res://terrain/assets/::1708637043
+fences.png::CompressedTexture2D::980086265578580658::1700178228::1700178230::1::::<><>::
+::res://terrain/assets/base_terrain/::1708637044
+decor_16x16.png::CompressedTexture2D::4413508588805149186::1700178228::1700178388::1::::<><>::
+grass.png::CompressedTexture2D::508524534576512178::1700178228::1700178392::1::::<><>::
+plains.png::CompressedTexture2D::4416300000683261308::1700178228::1700180048::1::::<><>::
+slime.png::CompressedTexture2D::5515463026453796338::1700513242::1700513246::1::::<><>::
+::res://terrain/interior/::1708637044
+walls.png::CompressedTexture2D::5161635812384985845::1700178246::1700180162::1::::<><>::
+wooden.png::CompressedTexture2D::6395571720469570356::1700178264::1700180160::1::::<><>::
+wooden_door.png::CompressedTexture2D::4540957005100888179::1700178246::1700180152::1::::<><>::
+::res://terrain/scenes/::1709058213
+interior.tscn::PackedScene::6172819262858078151::1709058213::0::1::::<><>::uid://cfslnggm5c06d::::res://terrain/interior/walls.png<>uid://cxeceqnrccqc7::::res://terrain/interior/wooden.png
+objects_terrain.tscn::PackedScene::5167718717863915428::1709058213::0::1::::<><>::uid://dk514o7ij0i01::::res://imagens rapidas/objects.png
+terrain.tscn::PackedScene::8460566688553564718::1709058211::0::1::::<><>::uid://hillbpqbr48e::::res://terrain/assets/base_terrain/grass.png<>uid://b36j20bqrvb5e::::res://terrain/assets/base_terrain/plains.png<>uid://b3463u6wocdpi::::res://terrain/assets/base_terrain/decor_16x16.png<>uid://n7043riyutta::::res://terrain/assets/fences.png
+::res://themes/::1708637044
+default_btn.tres::Theme::8629454079756724924::1708108891::0::1::::<><>::uid://cvtkhuaoexv1w
+new_theme.tres::Theme::6313227647074666060::1706234995::0::1::::<><>::
+::res://ttfs/::1708637044
+at01 (1).ttf::FontFile::1967004059589975852::1705950122::1708108843::1::::<><>::
+at01.ttf::FontFile::286458801481584903::1705950278::1708108847::1::::<><>::
+CLASSIC.ttf::FontFile::7479398841201241252::1705950624::1708108852::1::::<><>::
+Minecraft.ttf::FontFile::6286650982706390166::1701199944::1708108892::1::::<><>::
